@@ -1,9 +1,9 @@
-database structure:
+### database structure
 sql / database.sql
 
 ---------------------------------------
 
-dependencies:
+### Dependencies / Plugins
 npx express-generator
 npm i mysql
 npm i --save mysql2
@@ -13,5 +13,5 @@ npm i jsonwebtoken
 
 ---------------------------------------
 
-To start app: 
+## To start application: 
 npm start
