@@ -1,3 +1,8 @@
+database structure:
+sql / database.sql
+
+---------------------------------------
+
 dependencies:
 npx express-generator
 npm i mysql
@@ -6,4 +11,7 @@ npm i cors --save
 npm i bcrypt --save
 npm i jsonwebtoken
 
-To start app: npm start
+---------------------------------------
+
+To start app: 
+npm start
